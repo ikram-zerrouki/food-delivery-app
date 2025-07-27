@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811702987948",
+    "project_id": "tdmproject-bef84",
+    "storage_bucket": "tdmproject-bef84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811702987948:android:7737b7ef11aa0de655c309",
+        "android_client_info": {
+          "package_name": "com.example.projettdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811702987948-nf7qqhvfolkqrheuef2qvn4dm1mnkr8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NLlR-Q_t0d5VOGnjxs-1B-Ygdk5Nxi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811702987948-nf7qqhvfolkqrheuef2qvn4dm1mnkr8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
